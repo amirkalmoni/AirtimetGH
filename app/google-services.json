@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "807384400275",
+    "firebase_url": "https://airtimeteamgh-f5427.firebaseio.com",
+    "project_id": "airtimeteamgh-f5427",
+    "storage_bucket": "airtimeteamgh-f5427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807384400275:android:18994570c9e7c32b",
+        "android_client_info": {
+          "package_name": "com.example.amirkalmoni.airtimetgh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807384400275-5sgeevga5ph74ctoj4sdpfldv52pukhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amirkalmoni.airtimetgh",
+            "certificate_hash": "a142350fde75c940aeea86b58ea43e7dd636f7e6"
+          }
+        },
+        {
+          "client_id": "807384400275-8ss9aorqmuq7n4er1gqr501o6afe3d74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb7LKboxaO1_KFvXOcAF2FzQ9Y5LZM0vw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807384400275-8ss9aorqmuq7n4er1gqr501o6afe3d74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
